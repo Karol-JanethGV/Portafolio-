@@ -1,0 +1,44 @@
+*{
+    font-family: "Outfit", sans-serif;
+}
+header{
+    background-color: #FC819E;
+ 
+}
+header span{
+    color: #F8EDED;
+}
+.nav-item a{
+    color: #F8EDED;
+}
+/* Link visitado*/
+.nav-item a:visited{
+    color: #F8EDED;
+}
+.nav-item a:hover{
+    color: #F7418F;
+}
+#nav-butoon{
+    background-color: #F7418F;
+}
+.icon-habilidades{
+    color: #FEC7B4;
+    font-size: 2em;
+}
+.img-proyecto1{
+    background-image: url('/assets/clonpinterest.png');
+    opacity: 0.6;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+footer{
+    background-color: #FC819E;
+    color: #F7418F;
+}
+footer .icon-footer i{
+    color: #fffdfd;
+
+}
+ #app{
+    color: #F7418F;
+ }
