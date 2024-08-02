@@ -20,4 +20,4 @@ Podrás encontrarlo aquí [Portafolio](https://github.com/Karol-JanethGV).💚
 * Proyectos
 * Contacto
 ### Captura del proyecto
-![Captura del proyecto](/img/sdfgh.png)
+![Captura del proyecto](img/cap.png)
